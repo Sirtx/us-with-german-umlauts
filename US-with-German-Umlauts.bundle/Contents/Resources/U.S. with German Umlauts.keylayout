@@ -1023,7 +1023,7 @@
 			<when state="4" output="Ÿ"/>
 		</action>
 		<action id="13">
-			<when state="none" output="a"/>
+			<when state="none" output=";"/>
 			<when state="1" output="á"/>
 			<when state="2" output="à"/>
 			<when state="3" output="â"/>
